@@ -1,0 +1,2 @@
+-- uncomment the next line to "fix" the Flyway migration test error:
+-- alter table example_entity add column description varchar(255);
